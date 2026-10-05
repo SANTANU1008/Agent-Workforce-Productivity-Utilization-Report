@@ -1,6 +1,9 @@
 # Agent-Workforce-Productivity-Utilization-Report
 The dashboard offers a consolidated view of agent attendance, time utilization, productivity, and workforce performance, enabling efficient reporting and data-driven operational analysis
 
+# Dashboard Preview
+https://drive.google.com/file/d/1X78casv3f-U5o3mzwk1yb8uJttQSyozB/view?usp=drive_link 
+
 ## Objective
 To develop a reliable WFM reporting solution that provides clear visibility into agent attendance, workforce utilization, and productivity, enabling accurate performance monitoring and supporting data-driven operational decision-making.
 
@@ -49,9 +52,6 @@ This Dashboard provides --
 ### Identifies utilization patterns across working, break, and payroll hours.
 ### Reduces manual reporting effort through an interactive Power BI solution.
 ### Supports data-driven decisions for workforce planning and operational performance.
-
-# Dashboard Preview
-https://drive.google.com/drive/u/2/folders/1CD-Fyxkxew2TH2DsnU3d5vSzYXhYaw_j 
 
 # Conclusion
 This dashboard provides a structured and data-driven view of agent workforce utilization and productivity, enabling accurate WFM reporting, efficient performance monitoring, and informed operational decision-making. It transforms key workforce metrics into actionable insights while improving reporting efficiency and visibility.
